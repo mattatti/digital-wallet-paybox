@@ -1,0 +1,8 @@
+/node_modules/
+/transaction-service/node_modules/
+/user-service/node_modules/
+/notification-service/node_modules/
+/notification-service/dist/
+/transaction-service/dist/
+/user-service/dist/
+/.idea/
